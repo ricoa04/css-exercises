@@ -3,20 +3,17 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#one {
+#two {
     color: #0000ff;
     font-size: 36px;
 }
 
-.odd.cooler {
+.font-size {
     font-size: 24px;
 }
 
-#another {
+#four {
     background-color: hsl(120, 100%, 80%);
-    font-size: 24px;
     font-weight: bold;
 }
-
-
 
